@@ -2,10 +2,12 @@
 	"url":"https://vecpilottest.ebiz.verizon.com/vec/public/params",
 	"spected":"/{*}/",
 	"name": "Sit params",
+	"method": "get",
 	"group":"SIT"
 },{
 	"url":"http://10.50.24.208:8001/vec/public/params",
 	"spected":"/{*}/",
 	"name": "Mac2 params",
+	"method": "get",
 	"group":"MAC2"
 }]
